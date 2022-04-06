@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+arima_predictions_T.csv
+arima_predictions_VZ.csv
+diff_T.csv
+diff_VZ.csv
+stock_prices.csv
+
+
